@@ -1,0 +1,8 @@
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.deps.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.AssemblyInfoInputs.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.AssemblyInfo.cs
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.EventBusApi\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.EventBusApi.csprojAssemblyReference.cache

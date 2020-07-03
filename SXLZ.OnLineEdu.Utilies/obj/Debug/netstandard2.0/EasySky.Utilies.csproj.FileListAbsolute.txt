@@ -1,0 +1,8 @@
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\bin\Debug\netstandard2.0\EasySky.Utilies.deps.json
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\bin\Debug\netstandard2.0\EasySky.Utilies.dll
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\bin\Debug\netstandard2.0\EasySky.Utilies.pdb
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\obj\Debug\netstandard2.0\EasySky.Utilies.AssemblyInfoInputs.cache
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\obj\Debug\netstandard2.0\EasySky.Utilies.AssemblyInfo.cs
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\obj\Debug\netstandard2.0\EasySky.Utilies.dll
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\obj\Debug\netstandard2.0\EasySky.Utilies.pdb
+D:\Code\通用服务平台\EasySkySolution\EasySky.Utilies\obj\Debug\netstandard2.0\EasySky.Utilies.csprojAssemblyReference.cache

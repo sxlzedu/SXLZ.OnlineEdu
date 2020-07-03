@@ -1,0 +1,7 @@
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Model\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Model.deps.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Model\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Model.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Model\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Model.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Model\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Model.AssemblyInfoInputs.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Model\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Model.AssemblyInfo.cs
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Model\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Model.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Model\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Model.pdb

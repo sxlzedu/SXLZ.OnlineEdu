@@ -1,0 +1,11 @@
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.AssemblyInfoInputs.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.AssemblyInfo.cs
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.deps.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.csprojAssemblyReference.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.csproj.CopyComplete
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Repository\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Repository.pdb

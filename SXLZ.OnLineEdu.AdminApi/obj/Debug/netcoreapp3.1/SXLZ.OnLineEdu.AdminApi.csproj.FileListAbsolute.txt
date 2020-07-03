@@ -1,0 +1,17 @@
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.exe
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.deps.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.runtimeconfig.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.runtimeconfig.dev.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\bin\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\staticwebassets\SXLZ.OnLineEdu.AdminApi.StaticWebAssets.Manifest.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\staticwebassets\SXLZ.OnLineEdu.AdminApi.StaticWebAssets.xml
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.AssemblyInfoInputs.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.AssemblyInfo.cs
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.RazorTargetAssemblyInfo.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.AdminApi\obj\Debug\netcoreapp3.1\SXLZ.OnLineEdu.AdminApi.pdb

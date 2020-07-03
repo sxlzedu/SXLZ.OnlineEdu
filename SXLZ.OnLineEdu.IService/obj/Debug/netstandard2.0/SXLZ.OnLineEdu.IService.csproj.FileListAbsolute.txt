@@ -1,0 +1,14 @@
+D:\Code\SXLZ.OnlineEdu\SXLZ.Service\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.deps.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.Service\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.Service\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.Service\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.AssemblyInfoInputs.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.Service\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.AssemblyInfo.cs
+D:\Code\SXLZ.OnlineEdu\SXLZ.Service\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.Service\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.IService\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.deps.json
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.IService\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.IService\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.pdb
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.IService\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.AssemblyInfoInputs.cache
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.IService\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.AssemblyInfo.cs
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.IService\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.dll
+D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.IService\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.IService.pdb
