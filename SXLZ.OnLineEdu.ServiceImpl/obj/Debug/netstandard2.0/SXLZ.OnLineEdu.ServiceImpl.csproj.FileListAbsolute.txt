@@ -1,8 +1,0 @@
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.deps.json
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.dll
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.pdb
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.AssemblyInfoInputs.cache
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.AssemblyInfo.cs
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.dll
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.pdb
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.ServiceImpl\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.ServiceImpl.csprojAssemblyReference.cache

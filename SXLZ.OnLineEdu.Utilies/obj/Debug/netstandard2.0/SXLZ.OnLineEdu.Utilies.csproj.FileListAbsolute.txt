@@ -1,7 +1,0 @@
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Utilies\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.deps.json
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Utilies\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.dll
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Utilies\bin\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.pdb
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Utilies\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.AssemblyInfoInputs.cache
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Utilies\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.AssemblyInfo.cs
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Utilies\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.dll
-D:\Code\SXLZ.OnlineEdu\SXLZ.OnLineEdu.Utilies\obj\Debug\netstandard2.0\SXLZ.OnLineEdu.Utilies.pdb
